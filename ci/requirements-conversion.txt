@@ -31,7 +31,7 @@ termcolor==1.1.0          # via tensorflow
 torch==1.4.0
 torchvision==0.5.0
 typing-extensions==3.7.4.1  # via onnx
-urllib3==1.25.8           # via requests
+urllib3==1.26.5           # via requests
 werkzeug==0.16.1          # via tensorboard
 wheel==0.34.1             # via tensorboard, tensorflow
 wrapt==1.11.2             # via tensorflow
