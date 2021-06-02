@@ -47,7 +47,7 @@ six==1.14.0               # via absl-py, cycler, google-auth, grpcio, packaging,
 tensorboard==2.1.1
 tensorboardx==2.0
 tqdm==4.43.0
-urllib3==1.25.8           # via requests
+urllib3==1.26.5           # via requests
 wcwidth==0.1.8            # via pytest
 werkzeug==1.0.0           # via tensorboard
 wheel==0.34.2             # via tensorboard
